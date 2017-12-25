@@ -1,0 +1,56 @@
+2017-12-25 19:03:50,653 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2017-12-25 19:03:50,687 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2017-12-25 19:03:50,701 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2017-12-25 19:03:50,706 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-12-25 19:03:50,706 INFO o.a.j.JMeter: Version 3.3 r1808647
+2017-12-25 19:03:50,706 INFO o.a.j.JMeter: java.version=1.8.0_144
+2017-12-25 19:03:50,706 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-12-25 19:03:50,707 INFO o.a.j.JMeter: os.name=Windows 10
+2017-12-25 19:03:50,707 INFO o.a.j.JMeter: os.arch=amd64
+2017-12-25 19:03:50,707 INFO o.a.j.JMeter: os.version=10.0
+2017-12-25 19:03:50,707 INFO o.a.j.JMeter: file.encoding=Cp1252
+2017-12-25 19:03:50,707 INFO o.a.j.JMeter: Max memory     =536870912
+2017-12-25 19:03:50,707 INFO o.a.j.JMeter: Available Processors =4
+2017-12-25 19:03:50,713 INFO o.a.j.JMeter: Default Locale=English (United States)
+2017-12-25 19:03:50,713 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2017-12-25 19:03:50,713 INFO o.a.j.JMeter: JMeterHome=C:\Users\kmohamed\Desktop\apache-jmeter-3.3\apache-jmeter-3.3
+2017-12-25 19:03:50,713 INFO o.a.j.JMeter: user.dir  =C:\Users\kmohamed\Desktop\apache-jmeter-3.3\apache-jmeter-3.3\bin
+2017-12-25 19:03:50,714 INFO o.a.j.JMeter: PWD       =C:\Users\kmohamed\Desktop\apache-jmeter-3.3\apache-jmeter-3.3\bin
+2017-12-25 19:03:50,716 INFO o.a.j.JMeter: IP: 172.25.60.81 Name: egy-kmohamed-NB2 FullName: egy-kmohamed-NB2.mshome.net
+2017-12-25 19:03:50,930 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2017-12-25 19:03:50,936 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2017-12-25 19:03:52,265 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2017-12-25 19:03:52,265 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2017-12-25 19:03:56,137 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2017-12-25 19:03:56,138 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2017-12-25 19:03:56,819 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2017-12-25 19:03:56,968 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2017-12-25 19:03:57,013 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2017-12-25 19:03:57,052 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-12-25 19:03:57,053 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-12-25 19:03:57,053 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-12-25 19:03:57,053 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-12-25 19:03:57,053 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2017-12-25 19:03:57,053 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2017-12-25 19:03:57,738 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2017-12-25 19:03:57,739 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\kmohamed\Desktop\apache-jmeter-3.3\apache-jmeter-3.3\bin\proxyserver.jks
+2017-12-25 19:03:58,018 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2017-12-25 19:03:58,091 INFO o.a.j.s.FileServer: Default base='C:\Users\kmohamed\Desktop\apache-jmeter-3.3\apache-jmeter-3.3\bin'
+2017-12-25 19:03:58,201 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2017-12-25 19:03:58,201 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2017-12-25 19:03:58,665 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2017-12-25 19:03:58,666 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jpgc-sense=3.4, jpgc-cmd=2.1, jpgc-graphs-composite=2.0, jpgc-csl=0.1, jpgc-functions=2.0, jpgc-casutg=2.5, jpgc-dbmon=0.1, jpgc-graphs-dist=2.0, jpgc-dummy=0.2, jpgc-filterresults=2.1, jpgc-ffw=2.0, jpgc-ggl=2.0, jpgc-httpraw=0.1, jpgc-sts=2.2, jpgc-fifo=0.2, jpgc-jmxmon=0.2, jpgc-graphs-vs=2.0, jpgc-lockfile=0.1, jpgc-mergeresults=2.1, jpgc-pde=0.1, jpgc-prmctl=0.3, jpgc-perfmon=2.1, jpgc-plugins-manager=0.18, bzm-random-csv=0.5, jpgc-webdriver=2.3, jpgc-synthesis=2.1, jpgc-tst=2.1, jpgc-udp=0.3, jpgc-csvars=0.1, jpgc-xml=0.1, jmeter-core=3.3, jmeter-ftp=3.3, jmeter-http=3.3, jmeter-jdbc=3.3, jmeter-jms=3.3, jmeter-junit=3.3, jmeter-java=3.3, jmeter-ldap=3.3, jmeter-mail=3.3, jmeter-mongodb=3.3, jmeter-native=3.3, jmeter-tcp=3.3, jmeter-components=3.3, jpgc-standard=2.0]
+2017-12-25 19:03:58,704 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2017-12-25 19:03:58,877 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2017-12-25 19:03:58,878 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2017-12-25 19:03:58,878 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2017-12-25 19:03:58,878 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2017-12-25 19:04:14,747 INFO o.a.j.g.a.Load: Loading file: D:\1.Work\AAMLive.jmx
+2017-12-25 19:04:14,747 INFO o.a.j.s.FileServer: Set new base='D:\1.Work'
+2017-12-25 19:04:14,912 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2017-12-25 19:04:14,916 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2017-12-25 19:04:14,918 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2017-12-25 19:04:14,922 INFO o.a.j.s.SaveService: Loading file: D:\1.Work\AAMLive.jmx
+2017-12-25 19:04:15,224 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2017-12-25 19:04:15,225 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2017-12-25 19:04:15,679 INFO o.a.j.s.FileServer: Set new base='D:\1.Work'

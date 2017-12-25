@@ -69,7 +69,7 @@
         </ConfigTestElement>
         <hashTree/>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">D:\1.Work\1. AAM\3.Performance\logintestdata.txt</stringProp>
+          <stringProp name="filename">/logintestdata.txt</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">username,password</stringProp>
           <stringProp name="delimiter">,</stringProp>

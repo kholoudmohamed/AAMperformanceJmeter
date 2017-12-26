@@ -1,0 +1,51 @@
+timeStamp	elapsed	label	responseCode	responseMessage	threadName	dataType	success	failureMessage	bytes	sentBytes	grpThreads	allThreads	Latency	IdleTime	Connect
+1514280131551	9307	Home Page	200	OK	AAMLive 1-1	text	true		2914329	13634	10	10	2999	0	1965
+1514280132481	8671	Home Page	200	OK	AAMLive 1-2	text	true		2914362	13634	10	10	2041	0	1036
+1514280134468	7268	Home Page	200	OK	AAMLive 1-4	text	true		2914178	13634	10	10	1812	0	855
+1514280133472	9830	Home Page	200	OK	AAMLive 1-3	text	true		2914232	13634	10	10	1712	0	845
+1514280135473	9676	Home Page	200	OK	AAMLive 1-5	text	true		2914342	13634	10	10	1929	0	982
+1514280136571	11149	Home Page	200	OK	AAMLive 1-6	text	false	The operation lasted too long: It took 11,149 milliseconds, but should not have lasted longer than 10,000 milliseconds.	2914377	13634	10	10	1801	0	895
+1514280141763	6651	Login Page	200	OK	AAMLive 1-1	text	false	The operation lasted too long: It took 6,651 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1367	0	396
+1514280137471	11119	Home Page	200	OK	AAMLive 1-7	text	false	The operation lasted too long: It took 11,119 milliseconds, but should not have lasted longer than 10,000 milliseconds.	2914352	13634	10	10	1828	0	856
+1514280142640	7233	Login Page	200	OK	AAMLive 1-4	text	false	The operation lasted too long: It took 7,233 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1437	0	468
+1514280144204	6520	Login Page	200	OK	AAMLive 1-3	text	false	The operation lasted too long: It took 6,520 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1264	0	383
+1514280142060	9044	Login Page	200	OK	AAMLive 1-2	text	false	The operation lasted too long: It took 9,044 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1411	0	438
+1514280139486	14231	Home Page	200	OK	AAMLive 1-9	text	false	The operation lasted too long: It took 14,231 milliseconds, but should not have lasted longer than 10,000 milliseconds.	2914302	13634	10	10	2099	0	1126
+1514280138471	15530	Home Page	200	OK	AAMLive 1-8	text	false	The operation lasted too long: It took 15,530 milliseconds, but should not have lasted longer than 10,000 milliseconds.	2914384	13634	10	10	1959	0	946
+1514280146053	8041	Login Page	200	OK	AAMLive 1-5	text	false	The operation lasted too long: It took 8,041 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1488	0	501
+1514280140475	14711	Home Page	200	OK	AAMLive 1-10	text	false	The operation lasted too long: It took 14,711 milliseconds, but should not have lasted longer than 10,000 milliseconds.	2914165	13634	10	10	1839	0	929
+1514280149493	5968	Login Page	200	OK	AAMLive 1-7	text	false	The operation lasted too long: It took 5,968 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1732	0	670
+1514280148624	7237	Login Page	200	OK	AAMLive 1-6	text	false	The operation lasted too long: It took 7,237 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1469	0	459
+1514280154903	3265	Login Page	200	OK	AAMLive 1-8	text	true		266354	2250	10	10	1285	0	398
+1514280154619	4452	Login Page	200	OK	AAMLive 1-9	text	false	The operation lasted too long: It took 4,452 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1245	0	382
+1514280156088	4534	Login Page	200	OK	AAMLive 1-10	text	false	The operation lasted too long: It took 4,534 milliseconds, but should not have lasted longer than 3,500 milliseconds.	266354	2250	10	10	1262	0	392
+1514280149319	14758	Logging In	200	OK	AAMLive 1-1	text	false	The operation lasted too long: It took 14,758 milliseconds, but should not have lasted longer than 13,000 milliseconds.	2431167	7278	10	10	2493	0	625
+1514280152005	12169	Logging In	200	OK	AAMLive 1-2	text	true		2442967	7213	10	10	2339	0	458
+1514280154995	10190	Logging In	200	OK	AAMLive 1-5	text	true		2431156	7204	10	10	2395	0	414
+1514280150776	15278	Logging In	200	OK	AAMLive 1-4	text	false	The operation lasted too long: It took 15,278 milliseconds, but should not have lasted longer than 13,000 milliseconds.	2439704	7253	10	10	2454	0	583
+1514280151629	15696	Logging In	200	OK	AAMLive 1-3	text	false	The operation lasted too long: It took 15,696 milliseconds, but should not have lasted longer than 13,000 milliseconds.	2431150	7180	10	10	2626	0	464
+1514280164979	2897	Investment Solution Page	200	OK	AAMLive 1-1	text	true		273358	1993	10	10	1345	0	384
+1514280165078	4093	Investment Solution Page	200	OK	AAMLive 1-2	text	true		285301	1973	10	10	1467	0	511
+1514280159071	10686	Logging In	200	OK	AAMLive 1-8	text	true		2431156	7229	10	10	2249	0	423
+1514280156762	13785	Logging In	200	OK	AAMLive 1-6	text	false	The operation lasted too long: It took 13,785 milliseconds, but should not have lasted longer than 13,000 milliseconds.	2430626	7253	10	10	2237	0	447
+1514280159975	10866	Logging In	200	OK	AAMLive 1-9	text	true		2434292	7223	10	10	2568	0	389
+1514280166956	3903	Investment Solution Page	200	OK	AAMLive 1-4	text	true		282046	1985	10	10	1379	0	424
+1514280168226	2892	Investment Solution Page	200	OK	AAMLive 1-3	text	true		273346	1961	10	10	1408	0	419
+1514280156364	14851	Logging In	200	OK	AAMLive 1-7	text	false	The operation lasted too long: It took 14,851 milliseconds, but should not have lasted longer than 13,000 milliseconds.	2431164	7275	10	10	2662	0	397
+1514280166086	5144	Investment Solution Page	200	OK	AAMLive 1-5	text	false	The operation lasted too long: It took 5,144 milliseconds, but should not have lasted longer than 4,900 milliseconds.	273359	1969	10	10	1400	0	385
+1514280168778	3488	Logout	200	OK	AAMLive 1-1	text	true		142880	2364	10	10	842	0	395
+1514280170658	2782	Investment Solution Page	200	OK	AAMLive 1-8	text	true		273356	1977	9	9	1305	0	378
+1514280170073	3426	Logout	200	OK	AAMLive 1-2	text	true		142789	2339	9	9	908	0	447
+1514280161524	12388	Logging In	200	OK	AAMLive 1-10	text	true		2431161	7235	8	8	2724	0	420
+1514280171449	2763	Investment Solution Page	200	OK	AAMLive 1-6	text	true		272786	1985	8	8	1317	0	382
+1514280171741	2724	Investment Solution Page	200	OK	AAMLive 1-9	text	true		276481	1973	8	8	1291	0	384
+1514280172116	2883	Investment Solution Page	200	OK	AAMLive 1-7	text	true		273263	1993	8	8	1407	0	395
+1514280171760	3377	Logout	200	OK	AAMLive 1-4	text	true		142699	2354	8	8	871	0	379
+1514280172132	3421	Logout	200	OK	AAMLive 1-5	text	true		142850	2334	7	7	813	0	379
+1514280172018	3547	Logout	200	OK	AAMLive 1-3	text	true		142833	2324	6	6	316	0	0
+1514280174813	2799	Investment Solution Page	200	OK	AAMLive 1-10	text	true		273342	1981	5	5	1315	0	381
+1514280174341	3422	Logout	200	OK	AAMLive 1-8	text	true		142862	2344	5	5	205	0	0
+1514280175113	3426	Logout	200	OK	AAMLive 1-6	text	true		142773	2354	4	4	204	0	0
+1514280175366	3393	Logout	200	OK	AAMLive 1-9	text	true		142782	2339	3	3	206	0	0
+1514280175900	3460	Logout	200	OK	AAMLive 1-7	text	true		142788	2364	2	2	206	0	0
+1514280178515	3406	Logout	200	OK	AAMLive 1-10	text	true		142723	2349	1	1	233	0	0

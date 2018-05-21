@@ -347,14 +347,15 @@
               <responseData>false</responseData>
               <samplerData>false</samplerData>
               <xml>false</xml>
-              <fieldNames>false</fieldNames>
+              <fieldNames>true</fieldNames>
               <responseHeaders>false</responseHeaders>
               <requestHeaders>false</requestHeaders>
               <responseDataOnError>false</responseDataOnError>
-              <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
               <assertionsResultsToSave>0</assertionsResultsToSave>
               <bytes>true</bytes>
               <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
             </value>
           </objProp>
           <stringProp name="filename">apache-jmeter-3.3\bin\test_Scenario1.jtl</stringProp>
@@ -1052,14 +1053,15 @@
               <responseData>false</responseData>
               <samplerData>false</samplerData>
               <xml>false</xml>
-              <fieldNames>false</fieldNames>
+              <fieldNames>true</fieldNames>
               <responseHeaders>false</responseHeaders>
               <requestHeaders>false</requestHeaders>
               <responseDataOnError>false</responseDataOnError>
-              <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
               <assertionsResultsToSave>0</assertionsResultsToSave>
               <bytes>true</bytes>
               <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
             </value>
           </objProp>
           <stringProp name="filename">apache-jmeter-3.3\bin\test_Scenario2.jtl</stringProp>
